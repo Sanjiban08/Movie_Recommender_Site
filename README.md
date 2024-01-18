@@ -1,4 +1,4 @@
-# [Your Movie Recommender Project]
+# Movie Recommender Site
 
 ## Overview
 
@@ -20,9 +20,8 @@ The pinnacle of the project is the Python application, seamlessly integrating a 
 
 To embark on this cinematic journey:
 
-1. Install the necessary dependencies with a swift `pip install -r requirements.txt`.
-2. Launch the main Python script using `python main_app.py`.
-3. Delve into the application via the provided URL or local server.
+1. Launch the main Python script using `python app.py`.
+2. Delve into the application via the provided URL or local server.
 
 ## Future Enhancements
 
